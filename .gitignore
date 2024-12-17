@@ -132,3 +132,4 @@ dist
 /src/__conditions-n-loops-tasks.js
 /.idea/*
 .DS_Store
+*.js

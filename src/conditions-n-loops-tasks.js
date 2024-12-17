@@ -9,8 +9,6 @@
  *                                                                                           *
  ******************************************************************************************* */
 
-const { interfaces } = require("mocha");
-
 /**
  * Determines whether a given number is positive. Zero is considered positive.
  * This function does not use Number or Math class methods.
